@@ -22,9 +22,9 @@
  LinkedIn
 
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[twitter]: https://twitter.com/smithjacqueline
+[instagram]: https://www.instagram.com/smithjacqueline
+[linkedin]: https://linkedin.com/in/smithjacqueline
   - [osTicket: Post-Installation Configuration](https://github.com/smithjacqueline/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/smithjacqueline/ticket-lifecycle)
 - <b>Microsoft Azure</b>
