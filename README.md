@@ -37,8 +37,7 @@
 [<img align="left" alt="Jacqueline | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jacqueline | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Jacqueline
-[instagram]: https://www.instagram.com/Jacqueline
+
 [linkedin]: https://linkedin.com/in/Jacqueline
 <!--
 **smithjacqueline/smithjacqueline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
