@@ -26,7 +26,7 @@
 [instagram]: https://www.instagram.com/smithjacqueline
 [linkedin]: https://linkedin.com/in/smithjacqueline
   - [osTicket: Post-Installation Configuration](https://github.com/smithjacqueline/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/smithjacqueline/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/smithjacqueline/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/smithjacqueline/azure-network-protocols)
